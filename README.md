@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Peter 👋
 
-<!--
-**gadnaw/gadnaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-Stack & AI Developer** — I build AI-powered web and mobile
+applications with Next.js, React Native, TypeScript, and Supabase.
 
-Here are some ideas to get you started:
+## What I Build
+- 🤖 AI chatbots and RAG pipelines (OpenAI, LangChain, Vercel AI SDK)
+- 🏥 Healthcare apps with HIPAA security (RLS, audit logging, MFA)
+- 📱 Cross-platform mobile apps (React Native + Expo)
+- 📊 SaaS dashboards with AI features
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+**AI/LLM:** OpenAI API, Vercel AI SDK, LangChain.js, Supabase pgvector, Pinecone
+**Frontend:** React, Next.js, TypeScript, Tailwind CSS, shadcn/ui
+**Mobile:** React Native, Expo
+**Backend:** Node.js, Supabase, Firebase, Prisma
+**Security:** RBAC, MFA, audit logging, HIPAA-aware architecture
+
+## Featured Projects
+📄 [AI Document Chat](link) — RAG pipeline with Supabase pgvector
+🏥 [Healthcare AI Assistant](link) — HIPAA-aware clinical knowledge base
+💬 [AI Chatbot Widget](link) — Embeddable customer support chatbot
+🏥 [Patient Portal](link) — Appointment system with Supabase RLS
+
+📫 Available for freelance — [Upwork Profile](your-upwork-link)
