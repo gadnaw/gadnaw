@@ -1,4 +1,4 @@
-# Hi, I'm Peter 👋
+# Hi, I'm Peter Wandag👋
 
 **Full-Stack & AI Developer** — I build AI-powered web and mobile
 applications with Next.js, React Native, TypeScript, and Supabase.
